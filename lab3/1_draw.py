@@ -15,7 +15,7 @@ circle(screen, (0, 0, 0), (160, 180), 8)
 circle(screen, (0, 0, 0), (240, 180), 8)
 rect(screen, (0, 0, 0), (160, 250, 100, 15))
 polygon(screen, (0, 0, 0), ((290, 130), (225, 180), (215, 175)))
-polygon(screen, (0, 0, 0), ((100, 120), (195, 175), (180, 180)))
+polygon(screen, (0, 0, 0), ((100, 120), (195, 175), (185, 180)))
 
 pygame.display.update()
 clock = pygame.time.Clock()
